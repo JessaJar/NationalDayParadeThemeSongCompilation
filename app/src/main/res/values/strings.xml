@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NationalDayParadeThemeSongCompilation</string>
+    <string name="show_list">show_list</string>
+    <string name="insert">insert</string>
+    <string name="_5">_5</string>
+    <string name="_4">_4</string>
+    <string name="_3">_3</string>
+    <string name="_2">_2</string>
+    <string name="_1">_1</string>
+    <string name="stars">stars</string>
+    <string name="enter_year_of_release_here">enter_year_of_release_here</string>
+    <string name="year">year</string>
+    <string name="enter_singer_s_name_s_here">enter_singer_s_name_s_here</string>
+    <string name="singer_s">singer_s</string>
+    <string name="enter_song_title_here">enter_song_title_here</string>
+    <string name="song_title">song_title</string>
+    <string name="song_id">song_id</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="cancel">cancel</string>
+</resources>
